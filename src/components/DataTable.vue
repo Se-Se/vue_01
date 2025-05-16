@@ -4,7 +4,7 @@
       <template #bodyCell="{ column }">
         <template v-if="column.key === 'action'">
           <a-space>
-            <a-button type="primary" size="small">编辑</a-button>
+            <a-button type="primary" size="small">编辑1</a-button>
             <a-button type="primary" danger size="small">删除</a-button>
           </a-space>
         </template>
