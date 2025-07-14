@@ -3,6 +3,7 @@
     https://github.com/Se-Se/vue_01
     12312
     base1
+    test1
   </div>
 </template>
 
