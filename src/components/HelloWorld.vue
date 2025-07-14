@@ -2,6 +2,7 @@
   <div class="hello">
     https://github.com/Se-Se/vue_01
     12312
+    base1
   </div>
 </template>
 
